@@ -22,6 +22,7 @@ int task1() {
     } while (n != num);
     return 0;
 }
+
 int task2() {
     int low = 1, high = 1000;
     int n, a = 0;
